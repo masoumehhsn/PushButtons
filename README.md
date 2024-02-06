@@ -2,4 +2,4 @@
 
 This small project implements three different QML push buttons, creating curves via gradients using the QtGraphicalEffects library.
 
-![alt text](https://github.com/masoomehsn/airplaneRotation/blob/main/airplaneRotation/Screenshot2023-03-12.png)
+![alt text](https://github.com/masoumehhsn/PushButtons/blob/main/PushButtons/image/pushButtons.PNG)
