@@ -3,11 +3,6 @@ import QtGraphicalEffects 1.13
 
 Item {
     id: name
-//    width: parent.width
-//    height: parent.height
-//    anchors.verticalCenter: parent.verticalCenter
-//    z:100
-
     Rectangle {
         id: brdrRect
         width: parent.width*1.15

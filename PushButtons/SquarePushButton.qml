@@ -3,10 +3,6 @@ import QtGraphicalEffects 1.13
 
 Item {
     id: name
-    //    width: parent.width
-    //    height: parent.height
-    //    anchors.verticalCenter: parent.verticalCenter
-    //    anchors.horizontalCenter: parent.horizontalCenter
     z:100
 
     Rectangle {

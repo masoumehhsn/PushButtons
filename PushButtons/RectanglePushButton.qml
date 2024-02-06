@@ -7,8 +7,6 @@ Item {
         id: outerBrdrRect
         width: brdrRect.width*1.02
         height: brdrRect.height*1.02
-//        border.color: "#2d2d2d"
-//        border.width: 1
         radius: width/2
         color: "#2d2d2d"
         anchors.verticalCenter: parent.verticalCenter
@@ -61,16 +59,6 @@ Item {
         }
 
     }
-    //    LinearGradient {
-    //        anchors.fill: brdrRect
-    //        source: brdrRect
-    //        gradient:Gradient{
-    //            GradientStop { position: 1.0; color: "#323335" }
-    //            GradientStop {position: 0.5; color: "#63667b" }
-    //            GradientStop {position: 0.0; color: "#b7b9c9" }
-    //        }
-
-    //    }
     Rectangle {
         id: rect1
         width: parent.width
