@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>RoundPushButton.qml</file>
+        <file>SquarePushButton.qml</file>
+        <file>RectanglePushButton.qml</file>
+    </qresource>
+</RCC>
